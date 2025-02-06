@@ -1,1 +1,2 @@
 This is Felipe's file
+New line added
