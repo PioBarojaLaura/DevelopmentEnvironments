@@ -1,2 +1,4 @@
 This is Felipe's file
 New line added
+Otra línea más
+Another new line
